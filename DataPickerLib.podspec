@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = DataPickerLib is available under the MIT license. See the LICENSE file for more info.DataPickerLib is available under the MIT license. See the LICENSE file for more info.DataPickerLib is available under the MIT license. See the LICENSE file for more info.DataPickerLib is available under the MIT license. See the LICENSE file for more info.
+  s.description      = 'DataPickerLib is available under the MIT license. See the LICENSE file for more info.DataPickerLib is available under the MIT license. See the LICENSE file for more info.DataPickerLib is available under the MIT license. See the LICENSE file for more info.DataPickerLib is available under the MIT license. See the LICENSE file for more info.'
 
   s.homepage         = 'https://github.com/Arun Kumar/DataPickerLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
