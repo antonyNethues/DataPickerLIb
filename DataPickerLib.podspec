@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'DataPickerLib is available under the MIT license. See the LICENSE file for more info.DataPickerLib is available under the MIT license. See the LICENSE file for more info.DataPickerLib is available under the MIT license. See the LICENSE file for more info.DataPickerLib is available under the MIT license. See the LICENSE file for more info.'
 
-  s.homepage         = 'https://github.com/Arun Kumar/DataPickerLib'
+  s.homepage         = 'https://github.com/antonyNethues/DataPickerLIb'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Arun Kumar' => 'antony@123789.org' }
