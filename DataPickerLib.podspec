@@ -40,5 +40,5 @@ TODO: Add long description of the pod here.
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 #  When using multiple platforms
-  spec.ios.deployment_target = "12.1"
+  s.ios.deployment_target = "12.1"
 end
