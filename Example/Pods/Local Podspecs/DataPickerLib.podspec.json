@@ -1,0 +1,22 @@
+{
+  "name": "DataPickerLib",
+  "version": "0.1.0",
+  "summary": "A short description of DataPickerLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Arun Kumar/DataPickerLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Arun Kumar": "antony@123789.org"
+  },
+  "source": {
+    "git": "https://github.com/Arun Kumar/DataPickerLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DataPickerLib/Classes/**/*"
+}
