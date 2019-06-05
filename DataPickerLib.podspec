@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'DataPickerLib'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of DataPickerLib.'
+  s.summary          = 'A short description of DataPickerLib.DataPickerLib is available under the MIT license. See the LICENSE file for more info.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Arun Kumar' => 'antony@123789.org' }
-  s.source           = { :git => 'https://github.com/Arun Kumar/DataPickerLib.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/antonyNethues/DataPickerLIb', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
@@ -41,4 +41,6 @@ TODO: Add long description of the pod here.
   # s.dependency 'AFNetworking', '~> 2.3'
 #  When using multiple platforms
   s.ios.deployment_target = "12.1"
+  s.swift_version = "4.2"
+
 end
